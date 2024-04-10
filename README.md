@@ -126,6 +126,10 @@ open `http://localhost:3000` for preview
 
 - [Vercel](https://vercel.com/) – Easily preview & deploy changes with git
 
+### Tools
+
+- [axios](https://github.com/axios/axios) Promise based HTTP client for the browser and node.js
+
 ### UI
 
 - [Tailwind CSS](https://tailwindcss.com/) – Utility-first CSS framework for rapid UI development
